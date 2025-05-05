@@ -143,7 +143,7 @@ en: &en
   forgot_your_password_: Forgot your password?
   create_free_account: Create free account
   already_have_an_account: Already have an account?
-  first_name: First name
+  first_name: 姓
   last_name: Last name
   sign_up: Sign up
   signing_up: Signing up
